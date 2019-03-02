@@ -1,7 +1,7 @@
 [
     {
-        "ip":"127.0.0.1",
-        "password":"",
+        "ip":"*",
+        "password":"ahmetcanpro",
         "role":"ADMIN",
         "name":"Local Administrator"
     },
@@ -16,5 +16,11 @@
         "password":"",
         "role":"USER",
         "name":"Local User"
+    },
+    {
+        "ip":"127.0.0.1",
+        "password":"",
+        "role":"ADMIN",
+        "name":"Local Administrator"
     }
 ]
